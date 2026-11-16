@@ -1,4 +1,4 @@
-:root { --wall: #0f2a2e; --line: #2f5257; --text: #dff3ea; --dim: #8fb4ac; --beam: #ffd34e; }
+:root { --wall: #11242e; --line: #2c4a57; --text: #dff3ea; --dim: #8eadb8; --beam: #ffd34e; }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--wall); color: var(--text); font: 300 18px/1.6 -apple-system, "Helvetica Neue", Arial, sans-serif; }
 main { max-width: 680px; margin: 0 auto; padding: 56px 22px 80px; }
